@@ -16,6 +16,14 @@ I'm Radwane, a passionate Full Stack Developer with a strong foundation in both 
 - Exploring new technologies and keeping up with industry trends
 - Contributing to open-source projects and the developer community
 
+### 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 📫 How to reach me
 - **Email:** [developerjarjini@gmail.com](mailto:developerjarjini@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/radwane-jarjini-347789189)
