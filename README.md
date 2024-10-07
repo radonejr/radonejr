@@ -18,6 +18,7 @@ I'm Radwane, a passionate Full Stack Developer with a strong foundation in both 
 
 ### 📫 How to reach me
 - **Email:** [developerjarjini@gmail.com](mailto:developerjarjini@gmail.com)
+- **Portfolio:** [LinkedIn](https://radonejr-portfolio.s3.eu-north-1.amazonaws.com/index.html)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/radwane-jarjini-347789189)
 
 ### 🚀 Let's build something amazing together!
